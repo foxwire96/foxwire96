@@ -7,3 +7,9 @@ Sou formada em design UX/UI/Front-End e estudando segunda graduação em Anális
 <div align="center">
     <img src="https://static.wikia.nocookie.net/valorant/images/2/24/Sentinel_Slide_Spray.gif/revision/latest?cb=20240308130523" width="200" height="200" />
   </a>
+
+Readme do perfil ainda em construção!
+<div align="center">
+ <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F4f602ytgmtcb1.gif" width="200" height="200" />
+  </a>
+    

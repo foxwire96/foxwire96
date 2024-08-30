@@ -10,6 +10,6 @@ Sou formada em design UX/UI/Front-End e estudando segunda graduação em Anális
 
 Readme do perfil ainda em construção!
 <div align="center">
- <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F4f602ytgmtcb1.gif" width="200" height="200" />
+ <img src="https://i.gifer.com/5iqM.gif" width="200" height="200" />
   </a>
     

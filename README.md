@@ -9,7 +9,5 @@ Sou formada em design UX/UI/Front-End e estudando segunda graduação em Anális
   </a>
 
 Readme do perfil ainda em construção!
-<div align="center">
  <img src="https://i.gifer.com/5iqM.gif" width="200" height="200" />
-  </a>
     

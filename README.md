@@ -34,5 +34,7 @@ Sou formada em design UX/UI/Front-End e estudando minha segunda graduação em A
   <img width="12" />
   <img src= "https://skillicons.dev/icons?i=Bash-Dark" height="40" alt="Bash Dark logo" />
   <img width="12" />
-  <img src= "https://skillicons.dev/icons?i=Python-Dark" height="40" alt="Python"  />
+  <img src= "https://skillicons.dev/icons?i=Python-Dark" height="40" alt="Python"/>
+  <img src= "https://skillicons.dev/icons?i=androidstudio-Dark" height="40" alt="Android Studio logo" />
+  <img width="12" />
 </div>

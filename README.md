@@ -1,6 +1,6 @@
 # Sobre mim
 
-Oi! Me Chamo Milena. Bem vindos ao meu Github e meus códigos!
+Oi! Me Chamo Milena. Bem vindos aos meus códigos!
 
 Sou formada em design UX/UI/Front-End e estudando minha segunda graduação em Análise e Desenvolvimento de Sistemas para Back-End
 

@@ -37,4 +37,6 @@ Sou formada em design UX/UI/Front-End e estudando minha segunda graduação em A
   <img src="https://skillicons.dev/icons?i=python" height="40"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
 </div>
